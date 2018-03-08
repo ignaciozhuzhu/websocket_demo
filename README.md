@@ -19,5 +19,6 @@ cd websocket_demo/ch1
 node server
 ```
 
-打开 http://localhost:8091 即可看到效果。
+打开 http://localhost:8091/ch1/client.html 即可看到效果。
 
+ch2,ch3 demo可用。ch4，ch5 待完善
